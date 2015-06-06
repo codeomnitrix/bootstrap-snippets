@@ -1,0 +1,23 @@
+{
+  "name": "codeomnitrix.bootstrap-snippets",
+  "title": "Bootstrap 3 Snippets",
+  "description": "Add Bootstrap 3 HTML5 Snippets to your page by hitting Ctrl-Shift keys with designated snippets eg. P for panel etc.",
+  "homepage": "https://github.com/codeomnitrix/bootstrap-snippets",
+  "version": "0.1.0",
+  "author": "Vinit Tiwari (https://github.com/codeomnitrix)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.37.0"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Bootstrap 3",
+    "Bootstrap Snippets",
+    "Snippets"
+    "HTML",
+    "device",
+    "screen",
+    "html",
+    "HTML Document"
+  ]
+}
